@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> <p> Eu sou a Taiana, mas pode me chamar de Tai! :grinning: Sou formada em Letras - Português e Espanhol pela Universidade Federal do Rio de Janeiro (UFRJ) desde 2017. Em 2022, decidi iniciar minha transição de carreira para a área de tecnologia, e atualmente participo, como aluna, do bootcamp de Desenvolvimento Full Stack da Driven Education.</p>
+> <p> Eu sou a Taiana, mas pode me chamar de Tai! :grinning: Sou formada em Letras - Português e Espanhol pela Universidade Federal do Rio de Janeiro (UFRJ) desde 2017. Em 2022, decidi iniciar minha transição de carreira para a área de tecnologia, e, assim, estudei no bootcamp de Desenvolvimento Full Stack da Driven Education. </p>
+> <br>
+- 🔭 Atualmente, estou trabalhando no meu primeiro projeto pessoal;
+- 🌱 Estou atualizando meus estudos no frontend, com o NextJS;
+- ⚡ Fun fact: gosto bastante de desenhar e já tatuei algumas pessoas por aí 😄
 <br>
 Onde você pode me encontrar:
 <br>
