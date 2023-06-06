@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Estou atualizando meus estudos no frontend, com o NextJS;
 - ⚡ Fun fact: gosto bastante de desenhar e já tatuei algumas pessoas por aí 😄
 <br>
+<br>
 Onde você pode me encontrar:
 <br>
 <a href="https://www.linkedin.com/in/taiana-azevedo-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
